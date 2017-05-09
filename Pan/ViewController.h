@@ -11,6 +11,7 @@
 
 //fkfkfkfkfkfkfkdskkkssk
 //ajdoaisjdoisajdosajdjas
+//ogogogogogogogogo
 
 @interface ViewController : UIViewController <UIImagePickerControllerDelegate,
 UINavigationControllerDelegate, UIActionSheetDelegate>
